@@ -1,0 +1,23 @@
+.img {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 100px;
+  height: auto;
+
+}
+
+.header {
+  position: relative;
+  padding: 20px;
+  background-color: #fff;
+  height: auto;
+
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
