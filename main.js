@@ -2,6 +2,7 @@ const button = document.getElementById("button");
 
 
 
-button.addEventListener("click", () => {
+button.addEventListener("click", (event) => {
+
   alert("test");
 })
