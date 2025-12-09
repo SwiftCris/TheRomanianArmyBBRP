@@ -15,7 +15,6 @@
 
 }
 
-h1 {}
 
 .text-1 {
   color: darkblue;
@@ -77,7 +76,7 @@ button {
 }
 
 
-.div {
+page {
   display: flex;
   align-items: center;
   justify-content: center;
